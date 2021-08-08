@@ -8,6 +8,7 @@ const MainPage = () => {
       <title>Wilomoon</title>
       <h1>Welcome to Wilomoon Studios!</h1>
       <p>Zander and I (Wilomoon) welcome you!</p>
+      <p>Tell me if you can see this?</p>
     </div>
   )
 }
