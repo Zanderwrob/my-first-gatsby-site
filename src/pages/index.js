@@ -10,7 +10,7 @@ const IndexPage = () => {
         <p>Da Home Page :D</p>
         <StaticImage
         alt="Wild Scrible"
-        src="https://i.pinimg.com/236x/ff/81/2d/ff812df7e425bcff4fb92e578e139f83.jpg"
+        src="../images/wiloBanner.png"
         />
       </Layout>
     </main>
